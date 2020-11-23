@@ -9,6 +9,7 @@
 	height: 50px;
 }
 
+/*Added a hover so it looks cooler */
 #minusNo:hover {
 	background-color: red;
 }
