@@ -4,7 +4,15 @@
 	margin-top: 200px;
 }
 
-#hexButton {
+.button {
 	width: 25%;
 	height: 50px;
+}
+
+#minusNo:hover {
+	background-color: red;
+}
+
+#addNo:hover {
+	background-color: green;
 }
