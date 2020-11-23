@@ -16,3 +16,8 @@
 #addNo:hover {
 	background-color: green;
 }
+
+#reset:hover {
+	background-color: black;
+	color: white;
+}
